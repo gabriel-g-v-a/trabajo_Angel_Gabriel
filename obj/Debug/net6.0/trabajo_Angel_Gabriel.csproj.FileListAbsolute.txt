@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\$$$$$\trabajo_Angel_Gabriel\bin\Debug\net6.0\trabajo_Angel_Gabriel.exe
+C:\Users\Usuario\Desktop\$$$$$\trabajo_Angel_Gabriel\bin\Debug\net6.0\trabajo_Angel_Gabriel.deps.json
+C:\Users\Usuario\Desktop\$$$$$\trabajo_Angel_Gabriel\bin\Debug\net6.0\trabajo_Angel_Gabriel.runtimeconfig.json
+C:\Users\Usuario\Desktop\$$$$$\trabajo_Angel_Gabriel\bin\Debug\net6.0\trabajo_Angel_Gabriel.dll
+C:\Users\Usuario\Desktop\$$$$$\trabajo_Angel_Gabriel\bin\Debug\net6.0\ref\trabajo_Angel_Gabriel.dll
+C:\Users\Usuario\Desktop\$$$$$\trabajo_Angel_Gabriel\bin\Debug\net6.0\trabajo_Angel_Gabriel.pdb
+C:\Users\Usuario\Desktop\$$$$$\trabajo_Angel_Gabriel\obj\Debug\net6.0\trabajo_Angel_Gabriel.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\$$$$$\trabajo_Angel_Gabriel\obj\Debug\net6.0\trabajo_Angel_Gabriel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\$$$$$\trabajo_Angel_Gabriel\obj\Debug\net6.0\trabajo_Angel_Gabriel.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\$$$$$\trabajo_Angel_Gabriel\obj\Debug\net6.0\trabajo_Angel_Gabriel.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\$$$$$\trabajo_Angel_Gabriel\obj\Debug\net6.0\trabajo_Angel_Gabriel.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\$$$$$\trabajo_Angel_Gabriel\obj\Debug\net6.0\trabajo_Angel_Gabriel.dll
+C:\Users\Usuario\Desktop\$$$$$\trabajo_Angel_Gabriel\obj\Debug\net6.0\ref\trabajo_Angel_Gabriel.dll
+C:\Users\Usuario\Desktop\$$$$$\trabajo_Angel_Gabriel\obj\Debug\net6.0\trabajo_Angel_Gabriel.pdb
+C:\Users\Usuario\Desktop\$$$$$\trabajo_Angel_Gabriel\obj\Debug\net6.0\trabajo_Angel_Gabriel.genruntimeconfig.cache
